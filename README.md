@@ -19,6 +19,7 @@ STEP 4: Save the Clean data to the file
 STEP 5: Remove outliers using IQR
 
 STEP 6: Use zscore of to remove outliers
+![image](https://github.com/user-attachments/assets/c8291430-c901-492e-b7c6-27a65a7fabc0)
 
 # Coding and Output
             <<include your coding and its corressponding output screen shots here>>

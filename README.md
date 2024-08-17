@@ -22,6 +22,10 @@ STEP 6: Use zscore of to remove outliers
 
 
 # Coding and Output
+```
+NAME   : V RAKSHA DHARANIKA
+REF NO : 212223230167
+DEP    : AIDS
  ```
 import pandas as pd
 import numpy as np

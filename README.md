@@ -155,5 +155,4 @@ df1
 
           
 # Result
-         # Result
 Thus to read the given data and perform data cleaning and save the cleaned data to a file done successfully.
